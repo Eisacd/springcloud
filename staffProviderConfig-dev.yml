@@ -10,5 +10,5 @@ mybatis-plus:
     map-underscore-to-camel-case: true
     call-setters-on-nulls: true
   mapper-locations: classpath*:/mappers/*Mapper.xml
-  type-aliases-package: com.lp.entit
+  type-aliases-package: com.lp.entity
   
